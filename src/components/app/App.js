@@ -71,7 +71,7 @@ class App extends Component {
 
     return (
       <div className="App">
-        <Router>
+        <Router basename="/coffee-shop">
           <div className="container">
             <Nav white posLeft pSmall />
           </div>
