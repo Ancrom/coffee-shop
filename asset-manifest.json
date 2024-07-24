@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/coffee-shop/static/css/main.71f9a53f.css",
+    "main.js": "/coffee-shop/static/js/main.5f86df0d.js",
+    "static/media/top-bg.jpeg": "/coffee-shop/static/media/top-bg.211f002e38ff1cd092d7.jpeg",
+    "static/media/our-coffee-bg.webp": "/coffee-shop/static/media/our-coffee-bg.12b38cd50d8c2af7e0f1.webp",
+    "static/media/goops-bg.webp": "/coffee-shop/static/media/goops-bg.2ecf0050560ac25e6ca4.webp",
+    "static/media/main-bg.webp": "/coffee-shop/static/media/main-bg.0ce8757702d440710e40.webp",
+    "static/media/coffee-item-card.webp": "/coffee-shop/static/media/coffee-item-card.c50c19f41ab969c3a907.webp",
+    "static/media/coffee-item2.webp": "/coffee-shop/static/media/coffee-item2.45fe8548e7e4cce7d547.webp",
+    "static/media/coffee-item3.webp": "/coffee-shop/static/media/coffee-item3.039e6289ddfde2209402.webp",
+    "static/media/coffee-item1.webp": "/coffee-shop/static/media/coffee-item1.f03574f2ec0dc51ed416.webp",
+    "static/media/about-img.webp": "/coffee-shop/static/media/about-img.5a192b62d2c58a08e5d0.webp",
+    "static/media/goods-img.webp": "/coffee-shop/static/media/goods-img.a8444e8d43fa2da81024.webp",
+    "index.html": "/coffee-shop/index.html",
+    "main.71f9a53f.css.map": "/coffee-shop/static/css/main.71f9a53f.css.map",
+    "main.5f86df0d.js.map": "/coffee-shop/static/js/main.5f86df0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f9a53f.css",
+    "static/js/main.5f86df0d.js"
+  ]
+}
