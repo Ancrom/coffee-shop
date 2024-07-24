@@ -1,0 +1,33 @@
+.logo {
+	margin-bottom: 20px;
+	width: 29px;
+	height: 29px;
+	position: relative;
+	&::before,
+	&::after {
+		content: "";
+		display: block;
+		width: 60px;
+		height: 1px;
+		position: absolute;
+	}
+	&::before {
+		top: 50%;
+		left: -85px;
+		background-color: black;
+	}
+	&::after {
+		top: 50%;
+		right: -85px;
+		background-color: black;
+	}
+	&--white {
+		svg {
+			color: white;
+		}
+		&::before,
+		&::after {
+			background-color: white;
+		}
+	}
+}

@@ -1,0 +1,20 @@
+.coffeeCard {
+	padding: 20px;
+	border-radius: 8px;
+	background: rgba(255, 255, 255, 0.65);
+	display: grid;
+	justify-items: end;
+	cursor: pointer;
+	transition: all 0.3s ease;
+	height: 100%;
+	box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.25);
+	& > * + * {
+		margin-top: 13px;
+	}
+	&__img {
+		justify-self: center;
+	}
+	&:hover {
+		transform: translateY(-5px);
+	}
+}

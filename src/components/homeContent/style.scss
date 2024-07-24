@@ -1,0 +1,16 @@
+.homeContent {
+	margin-top: 80px;
+	margin-bottom: 104px;
+	& .subtitle {
+		margin-bottom: 20px;
+	}
+	& .logo {
+		margin-bottom: 40px;
+	}
+	&__desc {
+		max-width: 590px;
+	}
+	& .text + .text {
+		margin-top: 25px;
+	}
+}

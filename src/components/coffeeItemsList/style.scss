@@ -1,0 +1,14 @@
+.itemsList {
+	& .container {
+		max-width: 800px;
+		display: grid;
+		grid-template-columns: repeat(auto-fit, 216px);
+		gap: 70px 60px;
+		align-items: stretch;
+		position: relative;
+		justify-content: center;
+		@media (max-width: 700px) {
+			gap: 20px;
+		}
+	}
+}
